@@ -1,0 +1,14 @@
+{
+  "name": "college-leave-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.12.2",
+    "react": "^19.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "proxy": "http://localhost:3000"
+}
